@@ -17,7 +17,7 @@
 					class={`transform transition-all duration-700 ${isLoaded ? 'translate-y-0 opacity-100' : 'translate-y-4 opacity-0'}`}
 				>
 					<h1 class="text-4xl md:text-6xl font-bold text-gray-800 mb-4">
-						SvelteKit + Amplify Gen2
+						Selamat Datang, Dika & Ilman!
 					</h1>
 					<p class="text-xl md:text-2xl text-gray-600 max-w-2xl mx-auto mb-8">
 						A starter template for SvelteKit and AWS Amplify
